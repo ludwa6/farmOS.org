@@ -175,6 +175,7 @@ worldwide, and it provides infrastructure to translate farmOS into any language.
 Anyone can contribute translations, and they can be shared with the rest of the
 farmOS community. If you are interested in contributing a translation in your
 language, open an issue in the [issue queues] and let's get started!
+_Q: Are there any prioritised languages for i18n/l10n?_
 
 [release notes]: https://drupal.org/project/farm/releases
 [Press]: /community/press
